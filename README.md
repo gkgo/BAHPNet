@@ -1,8 +1,8 @@
-# APRN 
+# BAHPNet
 
 > 🚧 **Note:** The detailed training and inference code is currently being organized and will be released soon.
 
-This repository contains the (upcoming) official implementation of **APRN**, a method for Few-Shot Semantic Segmentation.
+This repository contains the (upcoming) official implementation of **BAHPNet**, a method for Few-Shot Semantic Segmentation.
 
 
 
